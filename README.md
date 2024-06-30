@@ -41,5 +41,5 @@ EPOCH is dedicated to exploring the fascinating world of Artificial Intelligence
 - 📂 **`/Projects`**: Explore our open-source ML projects.
 - 📚 **`/Resources`**: Access learning materials and guides.
 - 📅 **`/Events`**: Get information about past and upcoming events.
-- 📄 **`/Publications`**: Discover our research publications and articles.
+- 📄 **`/Epoch-DL-Publications`**: Discover our research publications and articles.
 
