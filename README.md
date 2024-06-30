@@ -27,12 +27,10 @@ EPOCH is dedicated to exploring the fascinating world of Artificial Intelligence
 
 ## Get Involved 🚀
 
-- 📅 **Join our Events and Workshops**
-- 📝 **Contribute to our Projects**
-- 🏅 **Participate in our Competitions**
-- 📱 **Follow us on [Instagram](https://www.instagram.com/epoch.iiits)**
-- ✍️ **Read our articles on [Medium](https://medium.com/@epochiiits)**
-- 💼 **Connect with us on [LinkedIn](https://www.linkedin.com/company/epoch-iiits/)**
+- 📅 **Join our Events and Workshops**    
+- 📝 **Contribute to our Projects**       
+- 🏅 **Participate in our Competitions**  
+
 
 ## Contact Us 📧
 
